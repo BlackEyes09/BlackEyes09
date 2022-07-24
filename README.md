@@ -70,6 +70,12 @@
 <br/>
 <!-- ![](https://github-profile-trophy.vercel.app/?username=BlackEyes09&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
 
+<p align="center" border-radius= "100px">
+    <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
+        <img width="25%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/eeQkjW3Q4CMlnLO1kl/giphy.gif"/>
+    </a>
+  </p>
+  
 <!-- ### ✍️ Random Dev Quote -->
 <p align="center">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
