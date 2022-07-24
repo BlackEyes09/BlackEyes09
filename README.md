@@ -1,7 +1,7 @@
 
 <p align="center" border-radius= "100px">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img width="30%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://cdn.dribbble.com/users/175166/screenshots/6199954/media/f81e3105a143e808beb6ea5c1bb36dd7.gif"/>
+        <img width="30%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/AA4N5haI6ldIfPfZqE/giphy.gif"/>
     </a>
   </p>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Shuvam Here</h1>
