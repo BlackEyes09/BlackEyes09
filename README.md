@@ -22,5 +22,3 @@ I, Shuvam Patra aka The Black Eyes, am graphic and UI/UX designer,<br>currently 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BlackEyes09&icon=5&color=9)](https://visitcount.itsvg.in)
-
