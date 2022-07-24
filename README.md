@@ -61,7 +61,7 @@
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
-![snake gif](https://github.com/BlackEyes09/BlackEyes09/blob/output/github-contribution-grid-snake.gif)
+
 
 <p align="center" padding= "35px">
 <!-- ## Connect with me: -->
