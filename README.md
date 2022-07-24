@@ -12,7 +12,7 @@
 
 <p align="center" border-radius= "100px">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img width="15%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media0.giphy.com/media/wQQJqnU9jYUi5he4km/giphy.gif"/>
+        <img width="25%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media0.giphy.com/media/wQQJqnU9jYUi5he4km/giphy.gif"/>
     </a>
   </p>
   
@@ -24,7 +24,7 @@
 
 <p align="center" border-radius= "100px">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img width="15%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/lc4yfkBSZ06lQIuJmz/giphy.gif"/>
+        <img width="25%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/lc4yfkBSZ06lQIuJmz/giphy.gif"/>
     </a>
   </p>
   
@@ -52,7 +52,7 @@
 
 <p align="center" border-radius= "100px">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img width="15%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/4NdQAYLZEBpaoDpRdt/giphy.gif"/>
+        <img width="25%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/4NdQAYLZEBpaoDpRdt/giphy.gif"/>
     </a>
   </p>
   
