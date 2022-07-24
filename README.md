@@ -1,4 +1,5 @@
-![Alt Text](https://cdn.dribbble.com/users/175166/screenshots/6199954/media/f81e3105a143e808beb6ea5c1bb36dd7.gif)
+<a href="#"><img width="50%" height="auto" border-radius= "50%" align="center" src="https://cdn.dribbble.com/users/175166/screenshots/6199954/media/f81e3105a143e808beb6ea5c1bb36dd7.gif" height="175px"/></a>
+<!-- ![Alt Text](https://cdn.dribbble.com/users/175166/screenshots/6199954/media/f81e3105a143e808beb6ea5c1bb36dd7.gif) width="400" -->
 # 💫 About Me:
 I, Shuvam Patra aka The Black Eyes, am graphic and UI/UX designer,<br>currently learning about android development and basics of game development.<br>I love making graphic arts, learning astronomy and playing cricket and badminton.<br>So, wishing you a great welcome to my profile.
 
