@@ -1,8 +1,11 @@
 
-<p align="center" border-radius= "100px">
+<p justify-content="center" display=flex  align="center" border-radius= "100%">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img width="30%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/AA4N5haI6ldIfPfZqE/giphy.gif"/>
     </a>
+<!--     <a border-radius = "100%" href="https://github.com/BlackEyes09/github-readme-streak-stats">
+            <img width="30%" height="auto" border-radius = "100%" title="animation" alt="animation" class="gif" src="https://media0.giphy.com/media/E3y79zUo2V4v8AFG2V/giphy.gif?cid=ecf05e47gfvf72q9gxtfuwtw1o5x11b58nktljxu4cyskuqm&rid=giphy.gif&ct=g" alt="" justify-content="center">
+        </a>  -->
   </p>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Shuvam Here</h1>
 <h3 align="center">I'm a passionate Front-End Developer from India.</h3>
