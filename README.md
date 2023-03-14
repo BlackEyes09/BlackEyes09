@@ -80,11 +80,11 @@ Tech Stack: <br/><br/>
   </p>
   
 <!-- ### ✍️ Random Dev Quote -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img title="trophies" alt="Shuvam's streak" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
     </a>
-</p> --> -->
+</p> --> --> -->
 <!-- ![]() -->
 
 <!-- ### 😂 Random Dev Meme -->
@@ -93,7 +93,7 @@ Tech Stack: <br/><br/>
 ---
 
 
-<p align="center" padding= "35px">
+<p align="center" padding= "135px">
 <!-- ## Connect with me: -->
 <a href = "https://www.linkedin.com/in/shuvam-patra-157b50229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/THEBLACKEYES09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
