@@ -73,7 +73,7 @@ Tech Stack: <br/><br/>
 <br/>
 <!-- ![](https://github-profile-trophy.vercel.app/?username=BlackEyes09&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
 
-<p align="center" border-radius= "100px">
+<!-- <p align="center" border-radius= "100px">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img width="25%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/eeQkjW3Q4CMlnLO1kl/giphy.gif"/>
     </a>
@@ -84,7 +84,7 @@ Tech Stack: <br/><br/>
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img title="trophies" alt="Shuvam's streak" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
     </a>
-</p> -->
+</p> --> -->
 <!-- ![]() -->
 
 <!-- ### 😂 Random Dev Meme -->
