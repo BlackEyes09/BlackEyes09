@@ -33,7 +33,7 @@ Tech Stack: <br/><br/>
   
   
 
-GitHub Stats: <br/><br/>
+<!-- GitHub Stats: <br/><br/>
 <p align="center">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shuvam's streak" src="https://github-readme-stats.vercel.app/api?username=BlackEyes09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
@@ -48,7 +48,7 @@ GitHub Stats: <br/><br/>
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shuvam's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackEyes09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
     </a>
-</p>
+</p> -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=BlackEyes09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=BlackEyes09&theme=tokyonight&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackEyes09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
@@ -59,7 +59,7 @@ GitHub Stats: <br/><br/>
     </a>
   </p>
   
-🏆 GitHub Trophies <br/>
+<!-- 🏆 GitHub Trophies <br/>
 <p align="center">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img title="trophies" alt="Shuvam's streak" src="https://github-profile-trophy.vercel.app/?username=BlackEyes09&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
@@ -84,7 +84,7 @@ GitHub Stats: <br/><br/>
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img title="trophies" alt="Shuvam's streak" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
     </a>
-</p>
+</p> -->
 <!-- ![]() -->
 
 <!-- ### 😂 Random Dev Meme -->
