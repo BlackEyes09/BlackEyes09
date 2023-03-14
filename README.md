@@ -53,11 +53,11 @@ Tech Stack: <br/><br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=BlackEyes09&theme=tokyonight&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackEyes09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-<p align="center" border-radius= "100px">
+<!-- <p align="center" border-radius= "100px">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img width="25%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/4NdQAYLZEBpaoDpRdt/giphy.gif"/>
     </a>
-  </p>
+  </p> -->
   
 <!-- 🏆 GitHub Trophies <br/>
 <p align="center">
@@ -84,13 +84,13 @@ Tech Stack: <br/><br/>
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img title="trophies" alt="Shuvam's streak" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
     </a>
-</p> --> --> -->
+</p> --> 
 <!-- ![]() -->
 
 <!-- ### 😂 Random Dev Meme -->
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
----
+
 
 
 <p align="center" padding= "135px">
