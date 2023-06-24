@@ -1,102 +1,60 @@
 
 <p justify-content="center" display=flex  align="center" border-radius= "100%">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
+        <!-- <img width="30%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/AA4N5haI6ldIfPfZqE/giphy.gif"/> -->
         <img width="30%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/AA4N5haI6ldIfPfZqE/giphy.gif"/>
     </a>
-<!--     <a border-radius = "100%" href="https://github.com/BlackEyes09/github-readme-streak-stats">
-            <img width="30%" height="auto" border-radius = "100%" title="animation" alt="animation" class="gif" src="https://media0.giphy.com/media/E3y79zUo2V4v8AFG2V/giphy.gif?cid=ecf05e47gfvf72q9gxtfuwtw1o5x11b58nktljxu4cyskuqm&rid=giphy.gif&ct=g" alt="" justify-content="center">
-        </a>  -->
-  </p>
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Shuvam Here</h1>
-<h3 align="center">I'm a passionate Front-End Developer from India.</h3>
-<!-- </p><a href="#"><img width="50%" height="auto" border-radius= "100%" align="center" src="https://cdn.dribbble.com/users/175166/screenshots/6199954/media/f81e3105a143e808beb6ea5c1bb36dd7.gif" height="200px"/></a> -->
-<!-- ![Alt Text](https://cdn.dribbble.com/users/175166/screenshots/6199954/media/f81e3105a143e808beb6ea5c1bb36dd7.gif) width="400" -->
-<h4 align="center">I, Shuvam Patra aka The Black Eyes, am graphic and UI/UX designer,<br>currently learning about android development and basics of game development.<br>I love making graphic arts, learning astronomy and playing cricket and badminton.<br>So, wishing you a great welcome to my profile.</h4>
+</p>
+
+<h1 align="center">Hi 👋, I'm Shuvam Patra</h1>
+<h3 align="center">Frontend Developer, Game Developer, Graphic Designer</h3>
+<br>
+<h4 align="center">I, Shuvam Patra aka The Black Eyes, am Frontend Developer, Game Developer, Graphic and UI/UX designer,<br>currently learning about Game Development.<br>I love making graphic arts, learning astronomy and playing cricket and badminton.<br>So, wishing you a great welcome to my profile.</h4>
+
+<br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackeyes09&label=Profile%20views&color=0e75b6&style=flat" alt="blackeyes09" /> </p>
+
+- 👨‍💻 All of my projects are available at [//abababaa//](//abababaa//)
+
+- 📫 Reach me **shuvampatra03@gmail.com**
+
+<br>
 
 <p align="center" border-radius= "100px">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img width="25%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media0.giphy.com/media/wQQJqnU9jYUi5he4km/giphy.gif"/>
     </a>
   </p>
-  
-Socials: <br/><br/>
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/theblackeyes09) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yT7XBeRJk9) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shuvam.patra.33) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blackeyesandblue09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvam-patra-157b50229/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/theblackeys09) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/THEBLACKEYES09?s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/theblackeyes) 
 
-Tech Stack: <br/><br/>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+<h2 align="left">Connect with me:</h2>
+<br>
+<p align="left">
+<a href="https://twitter.com/theblackeyes09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theblackeyes09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shuvam patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvam patra" height="30" width="40" /></a>
+<a href="https://fb.com/shuvam patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuvam patra" height="30" width="40" /></a>
+<a href="https://instagram.com/blackeyesandblue09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blackeyesandblue09" height="30" width="40" /></a>
+<a href="https://dribbble.com/blackeyes09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="blackeyes09" height="30" width="40" /></a>
+<a href="https://www.behance.net/theblackeyes09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="theblackeyes09" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/the black eyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the black eyes" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shuvampatra03/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shuvampatra03/profile" height="30" width="40" /></a>
+</p>
+<br>
+<br>
+
+<h2 align="left">Languages and Tools:</h2>
+<br>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p align="center" border-radius= "100px">
     <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
         <img width="25%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/lc4yfkBSZ06lQIuJmz/giphy.gif"/>
     </a>
   </p>
-  
-  
 
-<!-- GitHub Stats: <br/><br/>
-<p align="center">
-    <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shuvam's streak" src="https://github-readme-stats.vercel.app/api?username=BlackEyes09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shuvam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackEyes09&theme=tokyonight&hide_border=false"/>
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shuvam's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackEyes09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-    </a>
-</p> -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=BlackEyes09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=BlackEyes09&theme=tokyonight&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackEyes09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+  <br>
 
-<!-- <p align="center" border-radius= "100px">
-    <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img width="25%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/4NdQAYLZEBpaoDpRdt/giphy.gif"/>
-    </a>
-  </p> -->
-  
-<!-- 🏆 GitHub Trophies <br/>
-<p align="center">
-    <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img title="trophies" alt="Shuvam's streak" src="https://github-profile-trophy.vercel.app/?username=BlackEyes09&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-    </a>
-</p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=blackeyes09&show_icons=true&locale=en&layout=compact" alt="blackeyes09" /></p>
 
-<br/>
-
-<a href="https://github.com/BlackEyes09/github-readme-activity-graph"><img alt="Shuvam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BlackEyes09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<!-- ![](https://github-profile-trophy.vercel.app/?username=BlackEyes09&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
-
-<!-- <p align="center" border-radius= "100px">
-    <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img width="25%" height="auto" border-radius= "100px" title="animation" alt="animation" src="https://media4.giphy.com/media/eeQkjW3Q4CMlnLO1kl/giphy.gif"/>
-    </a>
-  </p>
-  
-<!-- ### ✍️ Random Dev Quote -->
-<!-- <p align="center">
-    <a href="https://github.com/BlackEyes09/github-readme-streak-stats">
-        <img title="trophies" alt="Shuvam's streak" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-    </a>
-</p> --> 
-<!-- ![]() -->
-
-<!-- ### 😂 Random Dev Meme -->
-<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-
-
-
-
-<p align="center" padding= "135px">
-<!-- ## Connect with me: -->
-<a href = "https://www.linkedin.com/in/shuvam-patra-157b50229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/THEBLACKEYES09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/blackeyesandblue09/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/c/THEBLACKEYES/videos"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-</p>
+<br>
