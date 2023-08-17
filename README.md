@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackeyes09&label=Profile%20views&color=0e75b6&style=flat" alt="blackeyes09" /> </p>
 
-- 👨‍💻 All of my projects are available at [//abababaa//](//abababaa//)
+- 👨‍💻 All of my projects are available at [//theblackeyes//](//https://theblackeyes.netlify.app/projects.html//)
 
 - 📫 Reach me **shuvampatra03@gmail.com**
 
